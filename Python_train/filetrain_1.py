@@ -1,3 +1,4 @@
+# 进行了一些文件内容提取处理的练习（具体为将txt的字符串转化成列表，取出上下行对应元素的差值绝对值再取平均，把结果存入csv文件中）
 import os
 import pandas as pd
 filename = './data'
